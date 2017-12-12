@@ -1,9 +1,0 @@
-C:\Users\LUAYH\source\repos\HomePage\HomePage\bin\HomePage.dll.config
-C:\Users\LUAYH\source\repos\HomePage\HomePage\bin\HomePage.dll
-C:\Users\LUAYH\source\repos\HomePage\HomePage\bin\HomePage.pdb
-C:\Users\LUAYH\source\repos\HomePage\HomePage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\LUAYH\source\repos\HomePage\HomePage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\LUAYH\source\repos\HomePage\HomePage\obj\Debug\HomePage.csprojResolveAssemblyReference.cache
-C:\Users\LUAYH\source\repos\HomePage\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
-C:\Users\LUAYH\source\repos\HomePage\HomePage\obj\Debug\HomePage.dll
-C:\Users\LUAYH\source\repos\HomePage\HomePage\obj\Debug\HomePage.pdb
